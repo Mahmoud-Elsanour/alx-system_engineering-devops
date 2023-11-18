@@ -1,0 +1,5 @@
+# A directory for "Command line for the win" tasks
+
+## SFTP comands
+### sftp 3be????????79@????f4e7eb79.?????.alx-cod.online
+### put "0-first_9_tasks.png"
